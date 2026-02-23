@@ -283,10 +283,10 @@ const Footer = () => (
         <span className="font-display font-bold text-white">Repo Visualizer</span>
       </div>
       <div className="flex items-center gap-6">
-        <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-sky-400 transition-colors duration-300">
+        <a href="https://github.com/calvintakasi" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-sky-400 transition-colors duration-300">
           <Github className="w-5 h-5" />
         </a>
-        <span className="text-xs text-slate-400 font-mono">MIT License © 2025</span>
+        <span className="text-xs text-slate-400 font-mono">Developed By <span><a href="https://www.github.com/calvintakasi" target="_blank" rel="noopener noreferrer">calvintakasi</a></span></span>
       </div>
     </div>
   </footer>
