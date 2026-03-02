@@ -5,7 +5,7 @@ The official website for **Repo Visualizer**, a zero-friction Chrome extension t
 ## 🚀 Quick Start (Extension)
 
 ```bash
-git clone [https://github.com/yourusername/repo-visualizer.git](https://github.com/yourusername/repo-visualizer.git)
+git clone [https://github.com/calvintakasi/repo-visualizer.git](https://github.com/calvintakasi/repo-visualizer.git)
 cd repo-visualizer
 npm install
 npm run build
