@@ -28,7 +28,7 @@ const Hero = () => (
     <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
       <div className="animate-fade-up inline-flex items-center gap-2 px-4 py-2 rounded-full border border-teal-400/45 bg-gradient-to-r from-teal-400/15 to-teal-400/10 backdrop-blur-sm mb-8">
         <span className="w-2 h-2 rounded-full bg-teal-400 animate-pulse" />
-        <span className="text-xs font-mono text-teal-400 tracking-wider uppercase">Chrome Extension</span>
+        <span className="text-xs font-mono text-teal-400 tracking-wider uppercase">Browser Extension</span>
       </div>
 
       <h1 className="animate-fade-up text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-display font-extrabold leading-[0.95] tracking-tight mb-6">
